@@ -33,6 +33,5 @@ public class Main {
             System.out.printf("9 x %d = %d%n", tabla, result);
         }
 
-
     }
 }
